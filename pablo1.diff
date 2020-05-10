@@ -1,0 +1,7 @@
+2,3c2
+< pd.Series([0,5,7])
+< [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[Df[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+\ No newline at end of file
+---
+> pd.Series([0,5])
+\ No newline at end of file
